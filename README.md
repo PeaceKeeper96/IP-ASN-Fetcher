@@ -1,2 +1,2 @@
 # IP-ASN-Fetcher
-Turn your list of IP's into ASN data
+A basic bash script to Turn your list of IPs into ASN data.
